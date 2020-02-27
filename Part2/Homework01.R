@@ -1,4 +1,4 @@
-N <- 10
+N <- 10 #this value must be greater to achive nearer result to 68,2%
 
 counter <- 0
 
